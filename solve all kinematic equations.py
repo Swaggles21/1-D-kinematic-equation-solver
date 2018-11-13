@@ -1,4 +1,5 @@
 #solving the first equation vf=vi+a*t
+"""created by bryce patterson in ocotber and november 2018"""
 
 print("this program can solve for a variable with the  1-D kinematic equations:")
 print("please put 6789 for the variable that you want to solve for")
