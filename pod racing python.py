@@ -1,5 +1,8 @@
 # This program allows the user to control two turtles with the keyboard.
+
 """by bryce patterson in november 2018"""
+
+print("up and w keys accelerate turtles, and down and s keys deccelerate. left, right, a, d keys turn the turtles 30 degrees. f and j keys put turtles on starting line")
 
 from turtle import *
 
