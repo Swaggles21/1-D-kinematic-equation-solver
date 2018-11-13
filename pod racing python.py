@@ -1,4 +1,5 @@
 # This program allows the user to control two turtles with the keyboard.
+"""by bryce patterson in november 2018"""
 
 from turtle import *
 
